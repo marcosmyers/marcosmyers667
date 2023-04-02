@@ -4,3 +4,4 @@
  - Com o objetivo de mudar de carreia 
  - lingua que quero aprender é Phytom
  - Atualmente trabalhando de assistente de deposito pelo Grupo SBF (Centauro)
+ - Aqui estarei postando meus exercicios e meus desafios 
